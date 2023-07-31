@@ -65,7 +65,7 @@ function esVocal(letra) {
    // Tu código:
    if (/[aeiou]/.test(letra) & letra.length == 1) {
       return "Es vocal";
-   } else {return "Dato incorrecto";}
+   } else { return "Dato incorrecto"; }
 }
 console.log(esVocal('p'));
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
