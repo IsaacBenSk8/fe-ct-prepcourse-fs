@@ -242,7 +242,7 @@ function continueStatement(num) {
    
    while (i <= 10) {
       i++;
-      if(i === 5) {
+      if (i === 5) {
          continue;
       }
       num += 2;
