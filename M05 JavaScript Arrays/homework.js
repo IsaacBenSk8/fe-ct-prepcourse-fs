@@ -250,7 +250,7 @@ function continueStatement(num) {
    }
    return newArr;
 }
-console.log(continueStatement(2))
+
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    devolverPrimerElemento,
